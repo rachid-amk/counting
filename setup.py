@@ -10,7 +10,7 @@ config = {
     'download_url': '',
     'author_email': 'rachid.drid@gmail.com',
     'version': 'v0.1',
-    'install_requires': ['random'],
+    'install_requires': [],
     'packages': ['counting'],
     'script': [],
     'name': 'counting'
