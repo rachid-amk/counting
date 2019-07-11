@@ -7,7 +7,7 @@ count_list = []
 def count_number():
     global a, b, c
     counting = a * b + c
-    count_list.appand(counting)
+    count_list.append(counting)
     return None
 if __name__ == '__main__':
     count_number()
